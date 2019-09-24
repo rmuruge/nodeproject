@@ -1,13 +1,12 @@
 {
-  "name": "nodejs-image-demo",
+  "name": "assessment-02",
   "version": "1.0.0",
-  "description": "nodejs image demo",
-  "author": "katjuell <kathleenjuell@gmail.com>",
-  "license": "MIT",
+  "description": "Angular JS assessment project",
+  "author": "Raj",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/katjuell/nodejs-image-demo.git"
+    "url": "https://github.com/rmuruge/node_project.git"
   },
   "keywords": [
     "nodejs",
@@ -18,5 +17,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
   }
 }
